@@ -79,7 +79,7 @@ const Navbar = () => {
             <div className="flex items-center justify-between h-16">
                 <div className="flex items-center space-x-1">
                     <img 
-                        src="./src/assets/nodado-logo.png" 
+                        src="./public/nodado-logo.png" 
                         alt="Auguzcht Logo" 
                         className="h-8 w-8 object-contain"
                     />
